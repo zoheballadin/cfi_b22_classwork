@@ -1,0 +1,14 @@
+Bonus Question - 1 - Deadline - Friday 11:59 pm //5 Marks
+
+1)  Take this Public Repo   called Git Contributions
+https://github.com/adnanali-in/git-contributions
+
+Create a folder with your full name - Eg: adnanAliKhan (Follow Camel Case)
+Create a Pull Request / Contributions with the following contents in your folder
+    a. File Called operators.js (write some code, your wish)
+    b. Javascript.txt (add some content)
+    c. Create another subfolder with the name operators and all some files to it
+
+Once Completed raise a Contributions Request to the Main Repo without having access to Collaborate
+
+//HINT : Read about how to Fork Repos and make Contributions

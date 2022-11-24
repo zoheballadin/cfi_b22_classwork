@@ -58,4 +58,4 @@ console.log(c < c < c)
 console.log(typeof(+("asdagsaga15015")))
 console.log((500).toString());
 
-console.log("acb">"abc");
+console.log("acb">"abc");   
