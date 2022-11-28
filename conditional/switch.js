@@ -20,9 +20,33 @@ switch (symbol) {
     case "-":
         console.log(num1 - num2);
         //Code for Minus
+
+
+
+
         break;
     default:
         console.log("Invalid Input")
         break;
 
 }
+
+//Assignment - 1 Week 4
+
+/*
+
+Create a CLI Application with the Follow Instructions
+
+******************************
+        AREA CALCULATOR
+******************************
+
+1. Press 1 to Select Square
+2. Press 2 to Select Circle
+3. Press 3 to Select Rectangle
+4. Press 4 to Select Triangle
+
+Please Enter your Choice : 
+
+
+*/
