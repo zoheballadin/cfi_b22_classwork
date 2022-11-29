@@ -17,7 +17,7 @@
 
 //PRINT FIRST 100 NATURAL NUMBERS
 
-var a = 1;
+var a = 150;
 while (a <= 50) {
     console.log(a);
     // a++;
