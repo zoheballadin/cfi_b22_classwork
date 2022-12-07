@@ -11,11 +11,15 @@ var mohsin = {
     others: {
         password: "Something",
         phone: "+911234567890"
-    }
+    },
+    height: "6ft"
 }
 
-console.log(mohsin.age);
+// console.log(mohsin.age);
+// console.log(mohsin.height);
+// console.log(mohsin.special_attributes[1]);
+// console.log(mohsin.weight2);
+// console.log(mohsin.others.password);
+
 console.log(mohsin.height);
-console.log(mohsin.special_attributes[1]);
-console.log(mohsin.weight2);
-console.log(mohsin.others.password);
+console.log(mohsin["height"]);
