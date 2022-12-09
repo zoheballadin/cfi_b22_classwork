@@ -24,3 +24,8 @@ console.log((isitEven));
 isitEven(100);
 isitEven(1000000);
 isitEven(19);
+
+console.log(isNaN("N"));
+console.log(+("Q"))
+console.log(Number.isInteger(parseInt("1")));
+// A.15a.25b.12
